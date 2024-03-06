@@ -44,7 +44,7 @@
         "inlineStyleLanguage": "scss",
         "outputPath": "dist/apps/crm",
         "polyfills": ["zone.js"],
-        "scripts": [],
+        "scripts": ["node_modules/preline/preline.js"],
         "styles": ["apps/crm/src/styles.scss"],
         "tsConfig": "apps/crm/tsconfig.app.json"
       },
